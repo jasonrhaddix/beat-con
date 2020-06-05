@@ -1,5 +1,5 @@
 # Beat-Con
-[![Beat-Con](thumbnail.jpg)](https://jasonrhaddix.github.io/beat-con/src/assets/images/screen_shot.jpg)
+[![Beat-Con](thumbnail.jpg)](src/assets/images/screen_shot.jpg)
 Beat-Con is an web-based interactive beat machine using Nintendo Switch's Joy-Con controllers
 
 
