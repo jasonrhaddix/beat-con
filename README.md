@@ -5,7 +5,7 @@ Beat-Con is an web-based interactive beat machine using Nintendo Switch's Joy-Co
 
 
 ### Note
-This project is in progress.
+**This project is in prototype phase**
 
 
 
